@@ -65,14 +65,64 @@
 {
          "name": "Singapore.Racer3",
          "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Racer3.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.001",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.001.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.002",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.002.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.003",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.003.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.004",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.004.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.005",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.005.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.006",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.006.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.007",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.007.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.008",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.008.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.009",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.009.ovpn"
+      },
+
+{
+         "name": "Singapore.Core.010",
+         "url": "https://raw.githubusercontent.com/JHKVPN/LibreVPN/main/Singapore.Core.010.ovpn"
       }
 
 
 
    ],
-"message":"2 March 2023\n\n•Version:1\n\n•📢By : JueHtet📢",
+"message":"4 March 2023\n\n•Add Singapore 10ဖိုင်\n\n•Version:2\n\n•📢By : JueHtet📢",
    "title":"♻️ LibreVPN ♻️" ,
-   "version": 1
+   "version": 2
 }
 
 
